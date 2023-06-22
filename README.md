@@ -1,5 +1,4 @@
-
-[![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg)]
+[![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg height="200")]
 
 <h1 align="center">Hi 👋, I'm Sachin kumar</h1>
 <h3 align="center">Passionate coder creating innovative solutions and collaborating with the open-source community. Let's build together!"</h3>
