@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turing.com%2Fblog%2Fbest-programming-languages-for-ai-development%2F&psig=AOvVaw341lB0EkQbstGaKWN8dEmO&ust=1687500843372000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC7htuc1v8CFQAAAAAdAAAAABAF)]
+[![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg)]
 
 <h1 align="center">Hi 👋, I'm Sachin kumar</h1>
 <h3 align="center">Passionate coder creating innovative solutions and collaborating with the open-source community. Let's build together!"</h3>
