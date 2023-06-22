@@ -1,4 +1,4 @@
-[![MasterHead](https://codilime.com/static/2b5773beca118974180168ada813ba7b/an-introduction-to-low-level-programming.jpg)]
+![MasterHead](https://codilime.com/static/2b5773beca118974180168ada813ba7b/an-introduction-to-low-level-programming.jpg)
 
 <h1 align="center">Hi 👋, I'm Sachin kumar</h1>
 <h3 align="center">Passionate coder creating innovative solutions and collaborating with the open-source community. Let's build together!"</h3>
