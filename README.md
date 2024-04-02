@@ -1,7 +1,7 @@
 ![MasterHead](https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg)
 
 <h1 align="center">Hi 👋, I'm Sachin kumar</h1>
-<h3 align="center">Passionate coder creating innovative solutions and collaborating with the open-source community. Let's build together!"</h3>
+<h3 align="center">"I love coding, making cool stuff, and teaming up with others in the open-source community. Let's build together!"</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-krishna07&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-krishna07" /> </p>
